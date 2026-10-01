@@ -7,7 +7,7 @@ FILAS = 20
 TAMANO_CELDA = 27
 
 COLORES = {
-	"I": "#39c6d8",
+	"I": "#0a0c6d",
 	"O": "#f2c14e",
 	"T": "#bd8cff",
 	"S": "#69d18b",
